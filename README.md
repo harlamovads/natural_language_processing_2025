@@ -19,5 +19,5 @@ Repo for HSE course "Natural language processing" 2025-2026 Year 4
 # Домашние задания
 | ДЗ | Тема | Задание | Классрум для сдачи | Дедлайн |
 | --- | --- | --- | --- | --- |
-| ДЗ1 | LLM usage | Задание | Классрум | TBA | 
+| ДЗ1 | LLM usage | [Задание](./homeworks/hw1.ipynb) | [Классрум](https://classroom.github.com/a/XLhKOCIS) | 03.12 23:59 | 
 | ДЗ2 | TBA | Задание | Классрум | TBA | 
