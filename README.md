@@ -20,7 +20,10 @@ Repo for HSE course "Natural language processing" 2025-2026 Year 4
 | 1-2 | 1 | LLM usage | [Тетрадка](https://colab.research.google.com/drive/1zYOrZwhDyu_FsIfZG_IbwNOs16lArjw8?usp=sharing) | 6.11.25 | Да |
 | 1-2 | 2 | LLM usage | [Тетрадка](https://colab.research.google.com/drive/1zYOrZwhDyu_FsIfZG_IbwNOs16lArjw8?usp=sharing) | 13.11.25 | Да |
 | 3-4 | 1 | Transformer: tokenization and pretraining | [Тетрадка](https://colab.research.google.com/drive/1rY38WxjvC3ajwiXMQuLCPhyoZrwc-XkF?usp=sharing#scrollTo=iw_MJoe8AA9n), [nano-gpt repo](https://github.com/karpathy/nanoGPT), [канал Карпаты](https://www.youtube.com/@AndrejKarpathy/videos) | 20.11.25 | Да | 
-| 3-4 | 2 | Transformer: tokenization and pretraining | [Тетрадка](https://colab.research.google.com/drive/1rY38WxjvC3ajwiXMQuLCPhyoZrwc-XkF?usp=sharing#scrollTo=iw_MJoe8AA9n), [nano-gpt repo](https://github.com/karpathy/nanoGPT), [канал Карпаты](https://www.youtube.com/@AndrejKarpathy/videos) | 27.11.25 | Нет |
+| 3-4 | 2 | Transformer: tokenization and pretraining | [Тетрадка](https://colab.research.google.com/drive/1rY38WxjvC3ajwiXMQuLCPhyoZrwc-XkF?usp=sharing#scrollTo=iw_MJoe8AA9n), [nano-gpt repo](https://github.com/karpathy/nanoGPT), [канал Карпаты](https://www.youtube.com/@AndrejKarpathy/videos), [красивая демонстрашка трансформера](https://poloclub.github.io/transformer-explainer/) | 27.11.25 | Да |
+| 5-6 | 1 | Transformer: fine-tuning and RL | TBA | 04.12.25 | Нет |
+| 5-6 | 2 | Transformer: fine-tuning and RL | TBA | 05.12.25 | Нет |
+
 
 # Домашние задания
 | ДЗ | Тема | Задание | Классрум для сдачи | Дедлайн |
