@@ -23,7 +23,8 @@ Repo for HSE course "Natural language processing" 2025-2026 Year 4
 | 3-4 | 2 | Transformer: tokenization and pretraining | [Тетрадка](https://colab.research.google.com/drive/1rY38WxjvC3ajwiXMQuLCPhyoZrwc-XkF?usp=sharing#scrollTo=iw_MJoe8AA9n), [nano-gpt repo](https://github.com/karpathy/nanoGPT), [канал Карпаты](https://www.youtube.com/@AndrejKarpathy/videos), [красивая демонстрашка трансформера](https://poloclub.github.io/transformer-explainer/) | 27.11.25 | Да |
 | 5-6 | 1 | Transformer: fine-tuning and RL | TBA | 04.12.25 | Нет |
 | 5-6 | 2 | Transformer: fine-tuning and RL | TBA | 05.12.25 | Нет |
-
+| 7-8 | 1 | TBA | TBA | 15.12.25 | Нет
+| 7-8 | 2 | TBA | TBA | 16.12.25 | Нет
 
 # Домашние задания
 | ДЗ | Тема | Задание | Классрум для сдачи | Дедлайн |
