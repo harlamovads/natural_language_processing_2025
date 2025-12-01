@@ -9,7 +9,7 @@ Repo for HSE course "Natural language processing" 2025-2026 Year 4
 | Лекция | LLM Basics | [Презентация](https://github.com/harlamovads/natural_language_processing_2025/blob/main/lectures/Фикл%20NLP%202025%2C%20LLM%20Basics.pdf) | 06.11.2025 |
 | Лекция | LLM: MoE, LRM, Agents | [Презентация](https://github.com/harlamovads/natural_language_processing_2025/blob/main/lectures/Фикл%20NLP%202025%2C%20LLM_%20MoE%2C%20LRM%2C%20agents.pdf) | 24.11.2025 |
 | Лекция | LLM fine-tuning: optimizations | [Презентация](https://github.com/harlamovads/natural_language_processing_2025/blob/main/lectures/Фикл%20NLP%202025%2C%20LLM_%20fine-tuning.pdf) | 27.11.2025 |
-| Лекция | LLM fine-tuning: approaches | TBA | 01.12.2025 |
+| Лекция | LLM fine-tuning: RL | [Презентация](https://github.com/harlamovads/natural_language_processing_2025/blob/main/lectures/Фикл%20NLP%202025%2C%20LLM_%20fine-tuning%202.pdf) | 01.12.2025 |
 | Лекция | Embedders and RAG | TBA | 04.12.2025 |
 | Лекция | История вопроса | TBA | 11.12.2025 |
 | Лекция | Интерпретация LLM | TBA | 18.12.2025 |
