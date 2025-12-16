@@ -24,8 +24,8 @@ Repo for HSE course "Natural language processing" 2025-2026 Year 4
 | 5-6 | 1 | 3. Transformer: fine-tuning and optimisation | [Тетрадка с материалами внутри](https://colab.research.google.com/drive/1eOW12jctlPsUH_eN7CHnqYCgdFTT7MPo?usp=sharing) | 04.12.25 | Да |
 | 5-6 | 2 | 3. Transformer: fine-tuning and optimisation | [Тетрадка с материалами внутри](https://colab.research.google.com/drive/1eOW12jctlPsUH_eN7CHnqYCgdFTT7MPo?usp=sharing) | 05.12.25 | Да |
 | 7-8 | **2** | 4. RAG and agent-based systems | [Тетрадка с материалами внутри](https://colab.research.google.com/drive/1u9r2NVi85RscZb6Tt6jsMciC3b-o21wN?usp=sharing) | 11.12.25 | Да |
-| 7-8 | **1** | 4. RAG and agent-based systems | [Тетрадка с материалами внутри](https://colab.research.google.com/drive/1u9r2NVi85RscZb6Tt6jsMciC3b-o21wN?usp=sharing) | 15.12.25 | Нет |
-| 9-10 | **2** | 5. Earlier approaches | TBA | 16.12.25 | Нет |
+| 7-8 | **1** | 4. RAG and agent-based systems | [Тетрадка с материалами внутри](https://colab.research.google.com/drive/1u9r2NVi85RscZb6Tt6jsMciC3b-o21wN?usp=sharing) | 15.12.25 | Да |
+| 9-10 | **2** | 5. Earlier approaches | [Тетрадка](https://colab.research.google.com/drive/17UAKtb4QBKxom2VPSScaCoB1cOgb_OVc#scrollTo=D6JN01WMbnTw) | 16.12.25 | Нет |
 | 9-10 | **1** | 5. Earlier approaches | TBA | 18.12.25 | Нет |
 
 # Домашние задания
