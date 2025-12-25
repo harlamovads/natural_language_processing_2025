@@ -26,7 +26,7 @@ Repo for HSE course "Natural language processing" 2025-2026 Year 4
 | 7-8 | **2** | 4. RAG and agent-based systems | [Тетрадка с материалами внутри](https://colab.research.google.com/drive/1u9r2NVi85RscZb6Tt6jsMciC3b-o21wN?usp=sharing) | 11.12.25 | Да |
 | 7-8 | **1** | 4. RAG and agent-based systems | [Тетрадка с материалами внутри](https://colab.research.google.com/drive/1u9r2NVi85RscZb6Tt6jsMciC3b-o21wN?usp=sharing) | 15.12.25 | Да |
 | 9-10 | **2** | 5. Earlier approaches | [Тетрадка](https://colab.research.google.com/drive/17UAKtb4QBKxom2VPSScaCoB1cOgb_OVc#scrollTo=D6JN01WMbnTw) | 16.12.25 | Да |
-| 9-10 | **1** | 5. Earlier approaches | [Тетрадка](https://colab.research.google.com/drive/17UAKtb4QBKxom2VPSScaCoB1cOgb_OVc#scrollTo=D6JN01WMbnTw) | 18.12.25 | Нет |
+| 9-10 | **1** | 5. Earlier approaches | [Тетрадка](https://colab.research.google.com/drive/17UAKtb4QBKxom2VPSScaCoB1cOgb_OVc#scrollTo=D6JN01WMbnTw) | 18.12.25 | Да |
 
 # Домашние задания
 | ДЗ | Тема | Задание | Классрум для сдачи | Дедлайн |
